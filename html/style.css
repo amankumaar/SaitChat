@@ -11,7 +11,7 @@ label{
 }
 
 input{
-  background: #c4bc00;
+  background: #ffffff;
   color: #303030;
   font-size: 120%;
   border: none;
@@ -22,7 +22,7 @@ input{
 }
 
 #Main{
-  background: #fffb00;
+  background: #ffd9a8;
   border-radius: 8%;
   padding-left: 8%;
 }
